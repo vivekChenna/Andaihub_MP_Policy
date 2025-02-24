@@ -63,7 +63,7 @@ const voices: {
 } = {
   [DEFAULT_TTS_MODEL]: {
     name: "Andai Female",
-    avatar: "/andai.png",
+    avatar: "/andai_mp.png",
     language: "English",
     accent: "US",
   },
@@ -93,7 +93,7 @@ const voices: {
   // },
   "aura-orion-en": {
     name: "Andai Male",
-    avatar: "/andai.png",
+    avatar: "/andai_mp.png",
     language: "English",
     accent: "US",
   },

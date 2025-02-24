@@ -61,7 +61,7 @@ export const InitialLoad = ({
                       />
                       <>Call</>
                     </button>
-                    <button
+                    {/* <button
                       className=" flex items-center gap-1.5 px-6 md:px-8 py-3  bg-white rounded-md border"
                       disabled={connecting}
                       type="button"
@@ -79,10 +79,10 @@ export const InitialLoad = ({
                         width={17}
                       />
                       <>Chat</>
-                    </button>
+                    </button> */}
                   </div>
                   <div>
-                    <button
+                    {/* <button
                       className=" flex items-center gap-1.5 px-6 md:px-8 py-3  bg-white rounded-md border animate-bounce"
                       type="button"
                       onClick={() => {
@@ -96,7 +96,7 @@ export const InitialLoad = ({
                         width={15}
                       />
                       Empathetic Call
-                    </button>
+                    </button> */}
                   </div>
                 </div>
               )}

@@ -27,7 +27,7 @@ export default function Home() {
                 <Image
                   // className="w-40 md:w-auto h-8 max-w-[12.5rem] sm:max-w-none"
                   className=" rounded"
-                  src="/andai.png"
+                  src="/andai_mp.png"
                   alt="Andai Logo"
                   width={45}
                   height={45}
