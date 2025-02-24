@@ -29,8 +29,8 @@ export default function Home() {
                   className=" rounded"
                   src="/andai_mp.png"
                   alt="Andai Logo"
-                  width={45}
-                  height={45}
+                  width={80}
+                  height={80}
                   priority
                 />
               </a>
