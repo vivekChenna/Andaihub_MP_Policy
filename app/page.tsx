@@ -22,13 +22,13 @@ export default function Home() {
         {/* height 4rem */}
         <div className="h-[4rem] flex items-center">
           <header className="mx-auto w-full max-w-7xl px-4 md:px-6 lg:px-8 flex items-center justify-between pt-4 md:pt-0 gap-2">
-            <div>
+            <div className="py-4" >
               <a className="flex items-center" href="/">
                 <Image
                   // className="w-40 md:w-auto h-8 max-w-[12.5rem] sm:max-w-none"
                   className=" rounded"
                   src="/andai_mp.png"
-                  alt="Andai Logo"
+                  alt="MP Policy"
                   width={80}
                   height={80}
                   priority
